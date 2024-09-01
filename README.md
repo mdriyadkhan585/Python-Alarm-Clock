@@ -1,5 +1,6 @@
 # Python-Alarm-Clock
-
+---
+[In C Script](https://github.com/mdriyadkhan585/alarm-clock-C)
 ![Python Alarm Clock Logo](logo.svg)
 
 ---
